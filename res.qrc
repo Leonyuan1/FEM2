@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/canshu.bmp</file>
+        <file>icons/canshu1.bmp</file>
+        <file>icons/jihe.bmp</file>
+        <file>icons/jihe1.bmp</file>
+        <file>icons/jisuan.bmp</file>
+        <file>icons/jisuan1.bmp</file>
+        <file>icons/main.ico</file>
+    </qresource>
+</RCC>
