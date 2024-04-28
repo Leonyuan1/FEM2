@@ -10,7 +10,9 @@
 #include <QCursor>
 #include <QKeyEvent>
 #include <QList>
-
+dfthrct.
+    bgjgy
+    回顾vtryv
 // 自定义功能图元 - 点
 class BPointItem : public QObject, public QAbstractGraphicsShapeItem
 {
